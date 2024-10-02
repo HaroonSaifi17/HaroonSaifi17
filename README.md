@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA, Custom ROM development**
 - 💬 Ask me about **Angular, NodeJs, Express**
-- 📫 How to reach me: **haroonsaifi2001@gmail.com**
+- 📫 How to reach me: **haroondev2@gmail.com**
 
 ---
 
