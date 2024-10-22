@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Haroon Saifi</h1>
+<h1 align="center">Hi, I'm Mohd Haroon</h1>
 <h3 align="center">A full stack developer from India 💀</h3>
 
 - 🌱 I’m currently learning **DSA, Custom ROM development**
