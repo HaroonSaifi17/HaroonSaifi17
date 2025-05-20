@@ -9,7 +9,7 @@
 
 <h3>Connect with me:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <a href="https://twitter.com/haroonsaifi17" target="_blank">
+  <a href="https://twitter.com/haroonsaifi17_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/haroonsaifi17" target="_blank">
