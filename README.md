@@ -1,115 +1,70 @@
-<h1 align="center">Hi, I'm Mohd Haroon</h1>
-<h3 align="center">A full stack developer from India 💀</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,45:0ea5e9,100:22c55e&text=Mohd%20Haroon&fontSize=52&fontColor=f8fafc&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=19&descAlignY=58" alt="header" />
+</p>
 
-- 🌱 I’m currently learning **DSA, Custom ROM development**
-- 💬 Ask me about **Angular, NodeJs, Express**
-- 📫 How to reach me: **haroondev2@gmail.com**
+<p align="center">
+  Building production-grade fintech and EdTech products with TypeScript, React/Angular, Node.js, and tRPC.
+</p>
 
----
+<p align="center">
+  <a href="mailto:haroondev2@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/haroonsaifi17">LinkedIn</a> •
+  <a href="https://github.com/HaroonSaifi17">GitHub</a> •
+  <a href="https://x.com/HaroonSaifi17_">X</a> •
+  <a href="https://leetcode.com/u/HaroonSaifi17/">LeetCode</a>
+</p>
 
-<h3>Connect with me:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <a href="https://twitter.com/haroonsaifi17_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/haroonsaifi17" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/haroonsaifi17_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/haroonsaifi17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/haroonsaifi17" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20Roles-16a34a?style=flat-square" alt="Open to full stack roles" />
+  <img src="https://img.shields.io/badge/Location-India-1d4ed8?style=flat-square" alt="Location India" />
+  <img src="https://komarev.com/ghpvc/?username=HaroonSaifi17&label=Profile%20Views&color=0e7490&style=flat-square" alt="Profile views" />
+</p>
 
----
+## About
 
-<h3>Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-</div>
+- Full Stack Developer with hands-on product experience in DeFi and EdTech.
+- Built scalable modules at MeowFi, including liquidity and bribe vault workflows.
+- Strong in type-safe systems: TypeScript, tRPC, modular frontend and backend architecture.
+- Focused on clean code, strong DX, and shipping fast without quality trade-offs.
 
----
+## Tech
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HaroonSaifi17&show_icons=true&locale=en&layout=compact" alt="Haroon's Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HaroonSaifi17&show_icons=true&locale=en" alt="Haroon's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaroonSaifi17&" alt="Haroon's GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,angular,astro,nodejs,express,mongodb,mysql,supabase,tailwind,docker,aws,solidity,git,linux,neovim,figma,postman&perline=10" alt="Tech stack" />
+</p>
 
----
+## Selected Projects
 
-<div style="display: flex; justify-content: center;">
+- **MeowFi** - DeFi app with pools, bribe vaults, and type-safe API contracts.
+  - Live: [app.meowfi.xyz](https://app.meowfi.xyz)
+- **PrepZone** - Assessment platform with 700+ questions, admin workflows, and analytics.
+  - Live: [prep-zone.vercel.app](https://prep-zone.vercel.app/) | [Frontend](https://github.com/HaroonSaifi17/PrepZone) | [Backend](https://github.com/HaroonSaifi17/PrepZoneApi)
+- **ReqQuest** - Browser API client for REST testing and response inspection.
+  - Live: [reqquest-ten.vercel.app](https://reqquest-ten.vercel.app)
+- **Sorting Visualizer** - Interactive visualization of core sorting algorithms.
+  - Live: [sorting-visualizer-sandy-eight.vercel.app](https://sorting-visualizer-sandy-eight.vercel.app)
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaroonSaifi17&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroonSaifi17&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="165" alt="Top languages" />
+</p>
+
+## Fun
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by coffee" />
+</p>
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+</p>
 
+## Resume
+
+- Detailed resume: [about/resume.md](./about/resume.md)

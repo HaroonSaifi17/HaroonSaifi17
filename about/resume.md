@@ -1,68 +1,108 @@
-# Mohd Haroon 
+# Mohd Haroon
 
-Front End Developer
+Full Stack Developer
 
-## EXPERIENCE
+- Phone: +91 9818687175
+- Email: [haroondev2@gmail.com](mailto:haroondev2@gmail.com)
+- LinkedIn: [linkedin.com/in/haroonsaifi17](https://linkedin.com/in/haroonsaifi17)
+- GitHub: [github.com/HaroonSaifi17](https://github.com/HaroonSaifi17)
+- Portfolio: [portfolio-v4](https://portfolio-v4-two.vercel.app)
 
-### Freelance 
+## Profile
 
-_August 2021 - now_
+Full Stack Developer focused on building production-grade web applications across fintech and EdTech. Strong in TypeScript-first architecture, scalable frontend systems, typed APIs, and developer tooling that improves shipping speed without compromising quality.
 
-## PROJECTS 
+## Experience
 
-- [**PROJECTX**](https://haroonsaifi.site) | Aug 2023  
-  A web application for competitive exam preparation with practice tests and instant results.  
-  _Tech Stack: Angular, Tailwind CSS, MongoDB, Express.js, SCSS, Passport.js_
+### MeowFi (DeFi Startup) - Full Stack Developer Intern
 
-- [**HACKNCHILL**](https://hack-n-chill.vercel.app/) | Feb 2024  
-  A dynamic hackathon website with a Netflix-inspired UI.  
-  _Tech Stack: ReactJs, Tailwind CSS, HTML, CSS_
+Remote | Feb 2025 - Oct 2025
 
-- [**LOST PETGUARDIAN**](https://github.com/HaroonSaifi17/LostPetGuardian) | Sept 2023  
-  A web app for locating lost pets with advanced Google Maps navigation.  
-  _Tech Stack: Angular, Tailwind CSS, MongoDB, ExpressJs, NodeJs_
+- Architected a scalable NPM workspace monorepo with React, Node.js, and tRPC, improving cross-package maintainability and end-to-end type safety.
+- Engineered DeFi features including Liquidity Pools and Bribe Vaults using Balancer V3 protocols.
+- Optimized on-chain reads with Viem, Wagmi, and Multicall pipelines, reducing RPC requests by 40%.
+- Built backend services in Node.js and Express with MongoDB to handle high-load transaction and user state workflows.
+- Deployed and maintained a technical documentation hub with Astro Starlight and authored 20+ implementation guides.
 
-- [**PORTFOLIO**](https://github.com/HaroonSaifi17/PortfolioV1) | May 2023  
-  A personal portfolio website with sleek design and blog function.  
-  _Tech Stack: Angular, Tailwind CSS, MongoDB, ExpressJs, NodeJs_
+### Freelance - Full Stack Developer
 
-- [**GEEKSFORGEEKS ADGIPS**](https://gfg-adgips.vercel.app/) | March 2024  
-  A visually stunning website for the college society "GeeksforGeeks Chapter APGIPS".  
-  _Tech Stack: ReactJs, Tailwind CSS, NodeJs, Javascript_
+Remote | 2023 - Present
 
-## Education
+- Delivered 5+ projects including dashboards and commerce-oriented platforms with modern frontend and backend stacks.
+- Maintained strong client satisfaction through performance optimization, clean architecture decisions, and reliable delivery.
 
-### Dr. Akhilesh Das Gupta Institute of Professional Studies
+## Projects
 
-_September 2022 - September 2026_
+### MeowFi DApp
 
-Title: Bachelor of Technology in Electronics and Communication Engineering **(7.7 CGPA)**
+- Live: [app.meowfi.xyz](https://app.meowfi.xyz)
+- Stack: React, Node.js, tRPC, Viem, Wagmi, Ethers.js, MongoDB
+- Highlights:
+  - Built full-stack DeFi features for vaults, pools, and swaps with typed API contracts.
+  - Implemented multicall-backed data workflows for faster and more consistent dashboard hydration.
 
-### Govt Co-ed Senior Secondary School
+### PrepZone
 
-Title: Senior Secondary School
+- Live: [prep-zone.vercel.app](https://prep-zone.vercel.app/)
+- Frontend: [github.com/HaroonSaifi17/PrepZone](https://github.com/HaroonSaifi17/PrepZone)
+- Backend: [github.com/HaroonSaifi17/PrepZoneApi](https://github.com/HaroonSaifi17/PrepZoneApi)
+- Stack: Angular, Node.js, Express, MongoDB, Tailwind CSS
+- Highlights:
+  - Built an assessment platform with secure auth and a repository of 700+ questions.
+  - Added admin workflows for paper generation, content operations, and student analytics.
 
-## Tech
+### ReqQuest
 
-### Things I'm great at (>3 years experience)
+- Live: [reqquest-ten.vercel.app](https://reqquest-ten.vercel.app)
+- Stack: TypeScript, Analog.js, tRPC, Supabase
+- Highlights:
+  - Built a browser API client for REST testing, custom headers, and response inspection.
+  - Enforced strict API typing for safer frontend-backend integration and faster debugging.
 
-[React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [Webpack](https://webpack.js.org/), [Angular](https://angular.dev) , [Tailwind CSS](https://tailwindcss.com)
+### Sorting Visualizer
 
-### Things I'm good at (>1 year experience)
+- Live: [sorting-visualizer-sandy-eight.vercel.app](https://sorting-visualizer-sandy-eight.vercel.app)
+- Stack: JavaScript, CSS3
+- Highlights:
+  - Implemented real-time visualization for seven sorting algorithms using pure DOM operations.
+  - Added interaction controls for speed and array size with smooth playback.
 
-[ExpressJs](https://expressjs.com/), [NodeJS](https://nodejs.org/), [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/)
+## Technical Skills
+
+### Languages
+
+TypeScript, JavaScript (ES6+), Rust, Solidity (basics), HTML5, CSS3, SCSS
+
+### Frontend
+
+React.js, Next.js, Angular, Astro, Tailwind CSS, Redux, shadcn/ui, Vite
+
+### Backend
+
+Node.js, Express.js, Hono, tRPC, Analog.js, Supabase, Bun
+
+### Web3
+
+Viem, Wagmi, Ethers.js, Multicall, Balancer SDK
+
+### AI Engineering
+
+Prompt engineering, agentic workflow design, AI-assisted refactoring, AI code review
 
 ### Tools
 
-[Git](https://git-scm.com/), [Neovim](https://neovim.io/), [Figma](https://www.figma.com/), [Android Studio](https://developer.android.com/studio), [Postman](https://www.postman.com/)
+OpenCode, Cursor, Claude Code, GitHub Copilot, Docker, Git, Linux, Nx, Biome, Postman, Figma, MongoDB
 
-### Miscellaneous
+## Education
 
-[Nginx](https://www.nginx.com/), [Linux](https://www.linux.org/), [Hosting](https://www.hosting.com/), [Kotlin](https://kotlinlang.org/), [C++](https://isocpp.org/), [UI Design](https://www.adobe.com/products/xd.html)
+### Dr. Akhilesh Das Gupta Institute of Professional Studies (Affiliated to GGSIPU)
 
-## Contact
+B.Tech in Electronics and Communication Engineering | Nov 2022 - Jul 2026
 
-- Email: haroonsaifi2001@gmail.com
-- LinkedIn: [HaroonSaifi17](https://linkedin.com/in/haroonsaifi17)
-- Github: [HaroonSaifi17](http://github.com/HaroonSaifi17)
-- Twitter: [@HaroonSaifi17_](https://twitter.com/HaroonSaifi17_)
+- CGPA: 8.0
+
+## Achievements
+
+- Top 5 finalist at LiveTheCode 2.0 hackathon among 250+ teams with a production-ready full-stack submission.
+- 1000+ GitHub contributions across product work and self-driven engineering projects.
+- Consistent delivery record across internship and freelance projects with focus on quality and maintainability.
